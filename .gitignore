@@ -1,0 +1,10 @@
+
+*.plist
+
+*.app
+
+*.icns
+
+*.rsrc
+
+*.rtf
